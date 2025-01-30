@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Luke Coonrod, an electrical engineering student at the University of Missouri.
+I'm Luke, an electrical engineering student at the University of Missouri.
 
 <!--
 **The0bliterat0r/the0bliterat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
